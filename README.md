@@ -8,8 +8,8 @@ Scoring de Crédit Agricole par IA Multimodale
 ​Flux Environnemental (C_t) : Stress thermique et précipitations (Open-Meteo).
 ​Flux de Ressource (H_t) : Monitoring des barrages et humidité des sols via Sentinel-2 (NDWI).
 ​Flux de Marché (E_t) : Volatilité des prix exports et demande européenne.
-​Flux de Résilience (\Gamma) : Niveau technologique de l'agriculteur (Facteurs statiques).
-​🧠 L'Innovation : L'Indice de Mitigation (\Gamma)
+​Flux de Résilience  : Niveau technologique de l'agriculteur (Facteurs statiques).
+​🧠 L'Innovation : L'Indice de Mitigation 
 ​Le système évalue la capacité de réponse du producteur face aux aléas climatiques :
 ​Irrigation de Précision : Réduit le risque hydrique de 25%.
 ​Capteurs IoT (Sondes) : Augmente l'intervalle de confiance de la donnée de 20%.
